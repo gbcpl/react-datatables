@@ -1,0 +1,20 @@
+th.up {
+  background-image: url("../../../public/images/up_arrow.png");
+}
+th.down {
+  background-image: url("../../../public/images/down_arrow.png");
+}
+th.default {
+  background-image: url("../../../public/images/default.png");
+}
+
+.up,
+.default,
+.down {
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: right;
+  padding-right: 30px;
+  margin-right: 10px;
+  text-align: left;
+}

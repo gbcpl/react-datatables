@@ -1,0 +1,15 @@
+.paginationFooter {
+  display: flex;
+  flex-direction: row;
+}
+
+.noData {
+  text-align: center;
+}
+
+.itemsPage {
+  height: 20px;
+  width: 40px;
+  margin: auto;
+
+}
